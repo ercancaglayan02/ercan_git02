@@ -6,7 +6,7 @@ public class Denem01 {
 
 		
 System.out.println("ercan nasilsin");
-System.out.println(" ercan add second one");
+
 
 	}
 
